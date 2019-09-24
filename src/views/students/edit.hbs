@@ -1,0 +1,89 @@
+<div class="container py-5">
+    <div class="row">
+        <div class="col-md-10 mx-auto">
+            <div class="card">
+                <div class="card-header text-center">
+                    <h4>EDICION DE REGISTRO</h4>
+                </div>
+                <div class="card-body">
+                    <form action="/students/edit/{{student.id}}" method="POST">
+                        <div class="form-group row">
+                            <div class="col-sm-6">
+                                <label for="">Número de cuenta</label>
+                                <input type="text" maxlenght="9" name="cuenta" class="form-control" placeholder="Cuenta" value="{{student.cuenta}}" autofocus required>
+                            </div>
+                            <div class="col-sm-6">
+                                <label for="">Nombre del alumno</label>
+                                <input type="text" maxlenght="100" name="nombre" class="form-control" placeholder="Nombre" value="{{student.nombre}}" required>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-sm-6">
+                                <label for="proyecto">Nombre del proyecto</label>
+                                <textarea name="proyecto" maxlenght="100" rows="2" class="form-control" placeholder="Proyecto" required>{{student.proyecto}}</textarea>
+                            </div>
+                            <div class="col-sm-6">
+                                <label for="">Nombre de la organización beneficiada</label>
+                                <textarea name="beneficiario" maxlenght="100" rows="2" class="form-control" placeholder="Beneficiario" required>{{student.beneficiario}}</textarea>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-sm-6">
+                                <label for="">Evaluado por:</label>
+                                <input type="text" maxlenght="100" name="evaluador" class="form-control" placeholder="Evaluador" value="{{student.evaluador}}" required>
+                            </div>
+                            <div class="col-sm-6">
+                                <label for="">Cantidad de horas realizadas</label>
+                                <input type="number" min="0" max="50" name="horas" class="form-control" placeholder="Horas" value="{{student.horas}}" required>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-sm-6">
+                                <label for="">Nota de evaluación</label>
+                                <input type="number" step="0.10" min="0" max="100" name="evaluacion" class="form-control" placeholder="Evaluación" value="{{student.evaluacion}}" required>
+                            </div>
+                            <div class="col-sm-6">
+                                <label for="">Periodo de entrega</label>
+                                <input type="text" maxlenght="10" name="periodo" class="form-control" placeholder="Periodo" value="{{student.periodo}}" required> 
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-sm-6">
+                                <label for="">Valor monetario</label>
+                                <input type="number" name="valor" step="0.10" min="0" max="9999.99" class="form-control" placeholder="Valor" value="{{student.valor}}" required>
+                            </div>
+                            <div class="col-sm-6">
+                                <label for="">Asignatura en curso</label>
+                                <input type="text" maxlenght="50" name="asignatura" class="form-control" placeholder="Asignatura" value="{{student.asignatura}}" required>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                           <div class="col-sm-6">
+                               <label for="">Carrera que cursa</label>
+                               <input type="text" maxlength="10" name="carrera" class="form-control" placeholder="Carrera" value="{{student.carrera}}" required>
+                           </div>
+                           <div class="col-sm-6">
+                               <label for="">Observaciones</label>
+                               <textarea name="observaciones" maxlenght="100" rows="2" class="form-control" placeholder="Observaciones">{{student.observaciones}}</textarea> 
+                           </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-sm-4">
+                                <button class="btn btn-success btn-block">Guardar</button>
+                                <br>
+                            </div>
+                            <div class="col-sm-4">
+                                <a class="btn btn-info btn-block" href="/students/add">Limpiar</a>
+                                <br>
+                            </div>
+                            <div class="col-sm-4">
+                                <a class="btn btn-danger btn-block" href="/students">Cancelar</a>
+                                <br>
+                            </div>  
+                        </div>                      
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

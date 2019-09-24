@@ -1,0 +1,95 @@
+<div class="container p-4"> <!-- (p-4) -->
+    <div class="row">
+        <div class="col-sm-4">
+            <a class="btn btn-success" href="/students/add">Crear nuevo</a>
+        </div>
+        <div class="col-sm-4"></div>
+        <div class="col-sm-4">
+            <form class="form-inline md-form mr-auto mb-4" action="/students/search/" method="POST">
+                <input class="form-control mr-sm-2" name="account" type="text" placeholder="Cuenta" aria-label="Buscar">
+                <button class="btn btn-success">Filtrar</button>
+                    &nbsp;&nbsp;
+                <a class="btn btn-info" href="/students">Desfiltrar</a>
+            </form>
+        </div>
+    </div>
+    <div class="row">
+        {{#if students}}
+        <table class="table table-bordered table-responsive">
+            <thead class="thead-dark">
+                <tr>
+                    <th class="text-center" scope="col">Accion</th>
+                    <th class="text-center" scope="col">Cuenta</th>
+                    <th class="text-center" scope="col">Nombre</th>
+                    <th class="text-center" scope="col">Proyecto</th>
+                    <th class="text-center" scope="col">Beneficiario</th>
+                    <th class="text-center" scope="col">Evaluador</th>
+                    <th class="text-center" scope="col">Horas</th>
+                    <th class="text-center" scope="col">Evaluación</th>
+                    <th class="text-center" scope="col">Periodo</th>
+                    <th class="text-center" scope="col">Valor</th>
+                    <th class="text-center" scope="col">Asignatura</th>
+                    <th class="text-center" scope="col">Carrera</th>
+                    <th class="text-center" scope="col">Observaciones</th>
+                    <!--
+                    <th class="text-center" scope="col">Creación</th>
+                    -->
+               </tr>
+            </thead>
+            <tbody>
+                {{#each students}}
+                <tr>
+                    <td class="text-center" id="den"><a class="btn btn-success" href="/students/edit/{{id}}">Editar</a>&nbsp;<a class="btn btn-primary" href="/students/clone/{{id}}">Clonar</a>&nbsp;<button type="button" onclick="setID('{{id}}')" class="btn btn-danger" data-toggle="modal" data-target="#deleteStudentModal">Eliminar</button></td>
+                    <td class="text-center">{{cuenta}}</td>
+                    <td class="text-left">{{nombre}}</td>
+                    <td class="text-left">{{proyecto}}</td>
+                    <td class="text-left">{{beneficiario}}</td>
+                    <td class="text-left">{{evaluador}}</td>
+                    <td class="text-center">{{horas}}</td>
+                    <td class="text-center">{{evaluacion}}</td>
+                    <td class="text-center">{{periodo}}</td>
+                    <td class="text-center">{{valor}}</td>
+                    <td class="text-left">{{asignatura}}</td>
+                    <td class="text-left">{{carrera}}</td>
+                    <td class="text-left">{{observaciones}}</td>
+                    <!--
+                    <td class="text-left">{{creacion}}</td>
+                    -->
+                </tr>
+                {{/each}}    
+            </tbody>
+        </table>
+        {{else}}
+            <div class="col-md-4 mx-auto">
+                    <div class="card card-body text-center">
+                        <h4>No hay registros.</h4>
+                </div>
+            </div>
+        {{/if}}
+            <div class="modal fade" id="deleteStudentModal" tabindex="-1" role="dialog" aria-labelledby="deleteStudentLabel" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="deleteStudentLabel">ADVERTENCIA</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            Si elimina el registro actual no podrá recuperarlo despues.
+                        </div>
+                        <div class="modal-footer" id="eliminador">
+                            <button type="button" class="btn btn-info" data-dismiss="modal">Cancelar</button>
+                            <a class="btn btn-danger">Eliminar</a>
+                        </div>
+                </div>
+            </div>
+        </div>  
+    </div>
+</div>
+<script>
+    function setID(id){
+        document.getElementById('eliminador').innerHTML = "<button type=\"button\" class=\"btn btn-info\" data-dismiss=\"modal\">Cancelar</button><a class=\"btn btn-danger\" href=\"/students/delete/"+id+"\">Eliminar</a>";
+        console.log(id);
+    }
+</script>

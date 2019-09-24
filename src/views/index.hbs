@@ -1,0 +1,20 @@
+<main class="index">
+    <header class="masthead d-flex">
+        <div class="container text-center my-auto">
+            <h1 class="mb-1">PROGRAMAS TÉCNICOS CEUTEC</h1>
+            <h3 class="mb-4">
+                <em>CONTROL DE HORAS DE VINCULACIÓN</em>
+            </h3>
+            {{#if user}}
+                <a class="btn btn-success btn-lg" href="/students">
+                    REGISTROS
+                </a>
+            {{else}}
+            <a class="btn btn-success btn-lg" href="/signin">
+                Iniciar Sesión
+            </a>
+            {{/if}}
+        </div>
+        <div class="overlay"></div>
+    </header>
+</main>
