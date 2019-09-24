@@ -4,3 +4,6 @@
 
 ## Información básica
 - Sistema de control de vinculación de los programas técnicos universitarios de CEUTEC
+
+## Desplegado en:
+ https://ptvinculacion.herokuapp.com
