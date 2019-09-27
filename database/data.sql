@@ -384,19 +384,19 @@ INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas
 
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821108', 'ELMER EDUARDO TORRES QUEZADA', 'Metodología de las 5 "S"', 'Carpintería y Ebanistería John', 'Belinda Lizeth Canales Meraz', 10, 100, 'Q2_2019', 200, 'Emprendimiento y Gestion de la Carrera', 'TUDDW', '', 1);
 
-INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811138', 'ÁNGEL DAVID LOPEZ REYES', 'Metodología de las 5 "S"', 'Soluciones Técnicas S. de R.L', 'Belinda Lizeth Canales Meraz', 10, 93, 'Q2_2019', 200, 'Emprendimiento y Gestion de la Carrera', 'TUDDW', '', 1);
+INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811138', 'ÁNGEL DAVID LOPEZ REYES', 'Metodología de las 5 S', 'Soluciones Técnicas S. de R.L', 'Belinda Lizeth Canales Meraz', 10, 93, 'Q2_2019', 200, 'Emprendimiento y Gestion de la Carrera', 'TUDDW', '', 1);
 
-INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811153', 'JOSUE DAVID HERNANDEZ GODOY', 'Metodología de las 5 "S"', 'SMOOTHIES AND GAMES', 'Belinda Lizeth Canales Meraz', 10, 98, 'Q2_2019', 200, 'Emprendimiento y Gestion de la Carrera', 'TUIR', '', 1);
+INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811153', 'JOSUE DAVID HERNANDEZ GODOY', 'Metodología de las 5 S', 'SMOOTHIES AND GAMES', 'Belinda Lizeth Canales Meraz', 10, 98, 'Q2_2019', 200, 'Emprendimiento y Gestion de la Carrera', 'TUIR', '', 1);
 
-INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811115', 'EVANS ISAÍ VARELA MEJÍA', 'Metodología de las 5 "S"', 'SMOOTHIES AND GAMES', 'Belinda Lizeth Canales Meraz', 10, 98, 'Q2_2019', 200, 'Emprendimiento y Gestion de la Carrera', 'TUIR', '', 1);
+INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811115', 'EVANS ISAÍ VARELA MEJÍA', 'Metodología de las 5 S', 'SMOOTHIES AND GAMES', 'Belinda Lizeth Canales Meraz', 10, 98, 'Q2_2019', 200, 'Emprendimiento y Gestion de la Carrera', 'TUIR', '', 1);
 
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31911221', 'GUILLERMO ANDRES RIVERA MATUTE', 'Metodología de las 5 "S"', 'SMOOTHIES AND GAMES', 'Belinda Lizeth Canales Meraz', 10, 98, 'Q2_2019', 200, 'Emprendimiento y Gestion de la Carrera', 'TUBCC', '', 1);
 
-INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T61851016', 'MARLON DANIEL LANZA FUENTES', 'Metodología de las 5 "S"', 'Mister's Barber Shop', 'Belinda Lizeth Canales Meraz', 10, 95, 'Q2_2019', 200, 'Emprendimiento y Gestion de la Carrera', 'TUBCC', '', 1);
+INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T61851016', 'MARLON DANIEL LANZA FUENTES', 'Metodología de las 5 "S"', 'Misters Barber Shop', 'Belinda Lizeth Canales Meraz', 10, 95, 'Q2_2019', 200, 'Emprendimiento y Gestion de la Carrera', 'TUBCC', '', 1);
 
-INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31751007', 'ILARY DOWRINA HERRERA DEMPSTER', 'Metodología de las 5 "S"', 'Mister's Barber Shop', 'Belinda Lizeth Canales Meraz', 10, 95, 'Q2_2019', 200, 'Emprendimiento y Gestion de la Carrera', 'TUBCC', '', 1);
+INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31751007', 'ILARY DOWRINA HERRERA DEMPSTER', 'Metodología de las 5 "S"', 'Misters Barber Shop', 'Belinda Lizeth Canales Meraz', 10, 95, 'Q2_2019', 200, 'Emprendimiento y Gestion de la Carrera', 'TUBCC', '', 1);
 
-INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31911007', 'DARWIN ARIEL TERCERO CASTRO', 'Metodología de las 5 "S"', 'Mister's Barber Shop', 'Belinda Lizeth Canales Meraz', 10, 95, 'Q2_2019', 200, 'Emprendimiento y Gestion de la Carrera', 'TUIR', '', 1);
+INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31911007', 'DARWIN ARIEL TERCERO CASTRO', 'Metodología de las 5 "S"', 'Misters Barber Shop', 'Belinda Lizeth Canales Meraz', 10, 95, 'Q2_2019', 200, 'Emprendimiento y Gestion de la Carrera', 'TUIR', '', 1);
 
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821080', 'ANA ALVARADO', 'Encuesta de Satisgacción de Servicios Ambulatorios', 'CIS EL JAPÓN', 'Omar Ventura', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
 
@@ -407,410 +407,215 @@ INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821091', 'SANDRA GODOY', 'Encuesta de Satisgacción de Servicios Ambulatorios', 'CIS EL JAPÓN', 'Omar Ventura', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
 
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811164', 'HIGINIA ROSALES', 'Encuesta de Satisgacción de Servicios Ambulatorios', 'CIS EL JAPÓN', 'Omar Ventura', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821043', 'GREYSI BERMUDEZ', 'Encuesta de Satisgacción de Servicios Ambulatorios', 'CIS EL JAPÓN', 'Omar Ventura', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821093', 'JUNIOR SEVILLA', 'Encuesta de Satisgacción de Servicios Ambulatorios', 'CIS EL JAPÓN', 'Omar Ventura', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821026', 'MARIA CRISTINA ROMERO', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS del Japón', 'Omar Ventura', 5, 95, 'Q2_2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821027', 'GINNY ELIZABETH MARADIAGA', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS del Japón', 'Omar Ventura', 5, 95, 'Q2_2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811209', 'MARTHA LILIAM LOPEZ', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS del Japón', 'Omar Ventura', 5, 95, 'Q2_2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31541082', 'LEYLA PAOLA CERRATO', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS del Japón', 'Omar Ventura', 5, 95, 'Q2_2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821049', 'BELKI NOHEMY LAGOS', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS del Japón', 'Omar Ventura', 5, 95, 'Q2_2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821048', 'NEIVYS ABIGAIL ACOSTA', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS del Japón', 'Omar Ventura', 5, 95, 'Q2_2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821017', 'SHAROM JULIETTE ALCERRO', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS del Japón', 'Omar Ventura', 5, 95, 'Q2_2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841029', 'DANIELA MICHELLI CRUZ', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS del Japón', 'Omar Ventura', 5, 95, 'Q2_2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821046', 'MARÍA JOSÉ MEJÍA', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS del Japón', 'Omar Ventura', 5, 95, 'Q2_2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31851105', 'LEYDY YOKONOR SILVA GARCIA', 'Terapia Ocupacional', 'CEDER', 'Wendy Waleska Ramos Gallo', 10, 95, 'Q2-2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31851068', 'MARTHA MARIA CHINCHILLA MAYEN', 'Terapia Ocupacional', 'CEDER', 'Wendy Waleska Ramos Gallo', 10, 95, 'Q2-2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841134', 'DANIELA LILIETH CRUZ MATUTE', 'Terapia Ocupacional', 'CEDER', 'Wendy Waleska Ramos Gallo', 10, 95, 'Q2-2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841131', 'ALEXANDRA ROSETH RIVERA AVILA', 'Terapia Ocupacional', 'CEDER', 'Wendy Waleska Ramos Gallo', 10, 95, 'Q2-2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841129', 'LISBETH FAVIOLA ZELAYA PADILLA', 'Terapia Ocupacional', 'CEDER', 'Wendy Waleska Ramos Gallo', 10, 95, 'Q2-2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841065', 'ANDREA ALEJANDRA AMADOR RODRIGUEZ', 'Terapia Ocupacional', 'CEDER', 'Wendy Waleska Ramos Gallo', 10, 95, 'Q2-2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841060', 'GENESIS GABRIELA RAMOS RODRIGUEZ', 'Terapia Ocupacional', 'CEDER', 'Wendy Waleska Ramos Gallo', 10, 95, 'Q2-2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841055', 'MARTHA DE JESUS PONCE GOMEZ', 'Terapia Ocupacional', 'CEDER', 'Wendy Waleska Ramos Gallo', 10, 95, 'Q2-2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841053', 'LINDA PAOLA FLORES RUIZ', 'Terapia Ocupacional', 'CEDER', 'Wendy Waleska Ramos Gallo', 10, 95, 'Q2-2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841044', 'SANDY YADIRA IZAGUIRRE ESCOTO', 'Terapia Ocupacional', 'CEDER', 'Wendy Waleska Ramos Gallo', 10, 95, 'Q2-2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841042', 'CINDY GABRIELA OYUELA MARADIAGA', 'Terapia Ocupacional', 'CEDER', 'Wendy Waleska Ramos Gallo', 10, 95, 'Q2-2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841028', 'KARINA VANESSA SIERRA HERNANDEZ', 'Terapia Ocupacional', 'CEDER', 'Wendy Waleska Ramos Gallo', 10, 95, 'Q2-2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841025', 'LUIS ENMANUEL ANDRADE BUSTILLO', 'Terapia Ocupacional', 'CEDER', 'Wendy Waleska Ramos Gallo', 10, 95, 'Q2-2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841023', 'ERIK EMANUEL ENAMORADO ESPINOZA', 'Terapia Ocupacional', 'CEDER', 'Wendy Waleska Ramos Gallo', 10, 95, 'Q2-2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841014', 'CINTHIA ABIGAIL PINEA MENDEZ', 'Terapia Ocupacional', 'CEDER', 'Wendy Waleska Ramos Gallo', 10, 95, 'Q2-2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841010', 'FABIOLA RAQUEL ZUNIGA', 'Terapia Ocupacional', 'CEDER', 'Wendy Waleska Ramos Gallo', 10, 95, 'Q2-2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841009', 'KEILY MARLLINY FUNEZ GALEAS', 'Terapia Ocupacional', 'CEDER', 'Wendy Waleska Ramos Gallo', 10, 95, 'Q2-2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821088', 'JUAN CARLOS FLORES RAMOS', 'Terapia Ocupacional', 'CEDER', 'Wendy Waleska Ramos Gallo', 10, 95, 'Q2-2019', 250, 'Estrategias Educativas y Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841152', 'SAIDY PAOLA LOPEZ GOMEZ', 'Diagnóstico y Plan de Satisfacción y y de mejora continua en apoyo al cuidado del paciente', 'Asilo Hilos de Plata', 'Nadia Carrasco Carías', 10, 90, 'Q2-2019', 250, 'Estrategias Educativas y CAlidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841145', 'JENNIFER SARAHI SANCHEZ AGUILAR', 'Diagnóstico y Plan de Satisfacción y y de mejora continua en apoyo al cuidado del paciente', 'Asilo Hilos de Plata', 'Nadia Carrasco Carías', 10, 90, 'Q2-2019', 250, 'Estrategias Educativas y CAlidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841137', 'DANELY SARAHI ORDOÑEZ VALLEJO', 'Diagnóstico y Plan de Satisfacción y y de mejora continua en apoyo al cuidado del paciente', 'Asilo Hilos de Plata', 'Nadia Carrasco Carías', 10, 90, 'Q2-2019', 250, 'Estrategias Educativas y CAlidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841128', 'ELENA MARIA ANTUNEZ MEJIA', 'Diagnóstico y Plan de Satisfacción y y de mejora continua en apoyo al cuidado del paciente', 'Asilo Hilos de Plata', 'Nadia Carrasco Carías', 10, 90, 'Q2-2019', 250, 'Estrategias Educativas y CAlidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841127', 'KENIA PAMELA LOPEZ FLORES', 'Diagnóstico y Plan de Satisfacción y y de mejora continua en apoyo al cuidado del paciente', 'Asilo Hilos de Plata', 'Nadia Carrasco Carías', 10, 90, 'Q2-2019', 250, 'Estrategias Educativas y CAlidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841126', 'SUYAPA MICHELLE MAIRENA', 'Diagnóstico y Plan de Satisfacción y y de mejora continua en apoyo al cuidado del paciente', 'Asilo Hilos de Plata', 'Nadia Carrasco Carías', 10, 90, 'Q2-2019', 250, 'Estrategias Educativas y CAlidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841091', 'PAHOLA EMERITA SALGADO PONCE', 'Diagnóstico y Plan de Satisfacción y y de mejora continua en apoyo al cuidado del paciente', 'Asilo Hilos de Plata', 'Nadia Carrasco Carías', 10, 90, 'Q2-2019', 250, 'Estrategias Educativas y CAlidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841071', 'KARINA LIZZETH BARAHONA PEREZ', 'Diagnóstico y Plan de Satisfacción y y de mejora continua en apoyo al cuidado del paciente', 'Asilo Hilos de Plata', 'Nadia Carrasco Carías', 10, 90, 'Q2-2019', 250, 'Estrategias Educativas y CAlidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841067', 'FABIOLA MELISSA ZUNIGA HERNANDEZ', 'Diagnóstico y Plan de Satisfacción y y de mejora continua en apoyo al cuidado del paciente', 'Asilo Hilos de Plata', 'Nadia Carrasco Carías', 10, 90, 'Q2-2019', 250, 'Estrategias Educativas y CAlidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841064', 'ROSIN YAQUELIN ALVARADO ARIAS', 'Diagnóstico y Plan de Satisfacción y y de mejora continua en apoyo al cuidado del paciente', 'Asilo Hilos de Plata', 'Nadia Carrasco Carías', 10, 90, 'Q2-2019', 250, 'Estrategias Educativas y CAlidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841062', 'HACKDELYN DHAPNEY TROCHES TORRES', 'Diagnóstico y Plan de Satisfacción y y de mejora continua en apoyo al cuidado del paciente', 'Asilo Hilos de Plata', 'Nadia Carrasco Carías', 10, 90, 'Q2-2019', 250, 'Estrategias Educativas y CAlidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841039', 'OTILIA REBECA TREJO', 'Diagnóstico y Plan de Satisfacción y y de mejora continua en apoyo al cuidado del paciente', 'Asilo Hilos de Plata', 'Nadia Carrasco Carías', 10, 90, 'Q2-2019', 250, 'Estrategias Educativas y CAlidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821093', 'JUNIOR EDGARDO SEVILLA MARTINEZ', 'Diagnóstico y Plan de Satisfacción y y de mejora continua en apoyo al cuidado del paciente', 'Asilo Hilos de Plata', 'Nadia Carrasco Carías', 10, 90, 'Q2-2019', 250, 'Estrategias Educativas y CAlidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821073', 'MELVIS OBANDO LOZANO FLORES', 'Diagnóstico y Plan de Satisfacción y y de mejora continua en apoyo al cuidado del paciente', 'Asilo Hilos de Plata', 'Nadia Carrasco Carías', 10, 90, 'Q2-2019', 250, 'Estrategias Educativas y CAlidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821072', 'MERSY SUYAPA FUNES IRIAS', 'Diagnóstico y Plan de Satisfacción y y de mejora continua en apoyo al cuidado del paciente', 'Asilo Hilos de Plata', 'Nadia Carrasco Carías', 10, 90, 'Q2-2019', 250, 'Estrategias Educativas y CAlidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821047', 'WENDY WALESKA RAMOS PEREZ', 'Diagnóstico y Plan de Satisfacción y y de mejora continua en apoyo al cuidado del paciente', 'Asilo Hilos de Plata', 'Nadia Carrasco Carías', 10, 90, 'Q2-2019', 250, 'Estrategias Educativas y CAlidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821039', 'MARIA JOSE SANCHEZ MARTINEZ', 'Diagnóstico y Plan de Satisfacción y y de mejora continua en apoyo al cuidado del paciente', 'Asilo Hilos de Plata', 'Nadia Carrasco Carías', 10, 90, 'Q2-2019', 250, 'Estrategias Educativas y CAlidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811216', 'GUADALUPE SANTOS DELCID', 'Donación de Equipo', 'CIS Pedregal', 'Any Jackeline Nuñez Callejas', 5, 98, 'Q1_2019', 250, 'Salud Pública', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811186', 'BELKIS FRANCISCA JIMENEZ VALERIANO', 'Donación de Equipo', 'CIS Pedregal', 'Any Jackeline Nuñez Callejas', 5, 98, 'Q1_2019', 250, 'Salud Pública', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841025', 'LUIS ANDRADE', 'Familia Saludable ', 'CIS Providencia la Joya', 'Jenny Raquel Hernández Cruz', 5, 95, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811192', 'SAMIR MEJIA', 'Familia Saludable ', 'CIS Providencia la Joya', 'Jenny Raquel Hernández Cruz', 5, 95, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741127', 'TATIANA MELISSA NUIÑEZ VILLALTA ', 'Donación vestimenta para adultos y niños', 'Albergue del Hospital San Felipe ', 'Vida Estudiantil ', 10, 100, 'Q4_2018', 100, 'Voluntariado ', 'TUBCC', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741125', 'LUIS FERNANDO COREA DEL CID', 'Reforestación y limpieza en viveros del parque nacional La Tigra', 'Fundación Amitigra', 'Vida Estudiantil ', 6, 100, 'Q2_2019', 100, 'Voluntariado', 'TUBCC', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741108', 'BRYAN EDUARDO ORTIZ CANALES ', 'Aplicación de la Metodología Japonesa denominada "Las 5 S"', 'C.E.B FRANCISCO MORAZÁN', 'Belinda Canales ', 10, 95, 'Q2_2018', 200, 'Emprendimiento y Gestión de Carrera', 'TUIR', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811247', 'PAOLA ALEJANDRA HERNANDEZ ZAPATA', 'Donación de Equipo', 'CIS Pedregal', 'Any Jackeline Nuñez Callejas', 5, 98, 'Q1_2019', 250, 'Salud Pública', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811234', 'ONEYDA ABIGAIL BORJAS CASTILLO', 'Donación de Equipo', 'CIS Pedregal', 'Any Jackeline Nuñez Callejas', 5, 98, 'Q1_2019', 250, 'Salud Pública', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811231', 'LEDYN DULENIA ESPINO FLORES', 'Donación de Equipo', 'CIS Pedregal', 'Any Jackeline Nuñez Callejas', 5, 98, 'Q1_2019', 250, 'Salud Pública', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811227', 'BRISSY CAROLINA VASQUEZ MARTINEZ', 'Donación de Equipo', 'CIS Pedregal', 'Any Jackeline Nuñez Callejas', 5, 98, 'Q1_2019', 250, 'Salud Pública', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811226', 'JORGE DAVID GARCIA ALVARADO', 'Donación de Equipo', 'CIS Pedregal', 'Any Jackeline Nuñez Callejas', 5, 98, 'Q1_2019', 250, 'Salud Pública', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811223', 'KIMBERLY MABEL CRUZ MONTOYA', 'Donación de Equipo', 'CIS Pedregal', 'Any Jackeline Nuñez Callejas', 5, 98, 'Q1_2019', 250, 'Salud Pública', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811222', 'REINA ELIZABETH SANCHEZ ROSADO', 'Donación de Equipo', 'CIS Pedregal', 'Any Jackeline Nuñez Callejas', 5, 98, 'Q1_2019', 250, 'Salud Pública', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811218', 'LINDA SANDYBELLE LAGOS GOMEZ', 'Donación de Equipo', 'CIS Pedregal', 'Any Jackeline Nuñez Callejas', 5, 98, 'Q1_2019', 250, 'Salud Pública', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811210', 'MARY JOSSELYN GALO ESCOBAR', 'Donación de Equipo', 'CIS Pedregal', 'Any Jackeline Nuñez Callejas', 5, 98, 'Q1_2019', 250, 'Salud Pública', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811202', 'MAYNOR ANTONIO VELASQUEZ LEIVA', 'Donación de Equipo', 'CIS Pedregal', 'Any Jackeline Nuñez Callejas', 5, 98, 'Q1_2019', 250, 'Salud Pública', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811196', 'YOSSELIN GRABRIELA PADILLA PEREZ', 'Donación de Equipo', 'CIS Pedregal', 'Any Jackeline Nuñez Callejas', 5, 98, 'Q1_2019', 250, 'Salud Pública', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811195', 'MARCO ROBERTO RUBIO COLINDRES', 'Donación de Equipo', 'CIS Pedregal', 'Any Jackeline Nuñez Callejas', 5, 98, 'Q1_2019', 250, 'Salud Pública', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811187', 'PAOLA YAQUELIN PONCE SEVILLA', 'Donación de Equipo', 'CIS Pedregal', 'Any Jackeline Nuñez Callejas', 5, 98, 'Q1_2019', 250, 'Salud Pública', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811180', 'PAOLA ELIZABETH BONILLA FERRERA', 'Donación de Equipo', 'CIS Pedregal', 'Any Jackeline Nuñez Callejas', 5, 98, 'Q1_2019', 250, 'Salud Pública', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811179', 'VERONICA LETICIA ALDUVIN ESCOTO', 'Donación de Equipo', 'CIS Pedregal', 'Any Jackeline Nuñez Callejas', 5, 98, 'Q1_2019', 250, 'Salud Pública', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811176', 'VIVIAN CELESTE BAQUEDANO MARTINEZ', 'Donación de Equipo', 'CIS Pedregal', 'Any Jackeline Nuñez Callejas', 5, 98, 'Q1_2019', 250, 'Salud Pública', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811213', 'LIDEDY RAQUEL HERNANDEZ ULLOA', 'Donación de Equipo', 'CIS Pedregal', 'Any Jackeline Nuñez Callejas', 5, 98, 'Q1_2019', 250, 'Salud Pública', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811205', 'LAURA ESTHER RUIZ LAZO', 'Donación de Equipo', 'CIS Pedregal', 'Any Jackeline Nuñez Callejas', 5, 98, 'Q1_2019', 250, 'Salud Pública', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811217', 'HEIDY GABRIELA MARTINEZ GARCIA', 'Donación de Equipo', 'CIS Pedregal', 'Any Jackeline Nuñez Callejas', 5, 98, 'Q1_2019', 250, 'Salud Pública', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811244', 'GUISSELL ARACELY MONTOYA SALGADO', 'Donación de Equipo', 'CIS Pedregal', 'Any Jackeline Nuñez Callejas', 5, 98, 'Q1_2019', 250, 'Salud Pública', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T3181*216', 'GUADALUPE SANTOS DELCID', 'Donación de Equipo', 'CIS Pedregal', 'Any Jackeline Nuñez Callejas', 5, 98, 'Q1_2019', 250, 'Salud Pública', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811188', 'FANI MARIENE PONCE RAMOS', 'Donación de Equipo', 'CIS Pedregal', 'Any Jackeline Nuñez Callejas', 5, 98, 'Q1_2019', 250, 'Salud Pública', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811224', 'EYMI GISEL RODRIGUEZ GUTIERREZ', 'Donación de Equipo', 'CIS Pedregal', 'Any Jackeline Nuñez Callejas', 5, 98, 'Q1_2019', 250, 'Salud Pública', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811191', 'EDITH TATIANA GIRON ROSALES', 'Donación de Equipo', 'CIS Pedregal', 'Any Jackeline Nuñez Callejas', 5, 98, 'Q1_2019', 250, 'Salud Pública', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811235', 'DULCE MARIA TORRES DIAZ', 'Donación de Equipo', 'CIS Pedregal', 'Any Jackeline Nuñez Callejas', 5, 98, 'Q1_2019', 250, 'Salud Pública', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811166', 'BRITNY MICHELLE AMAYA HERNANDEZ', 'Donación de Equipo', 'CIS Pedregal', 'Any Jackeline Nuñez Callejas', 5, 98, 'Q1_2019', 250, 'Salud Pública', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T3181*186', 'BELKIS FRANCISCA JIMENEZ VALERIANO', 'Donación de Equipo', 'CIS Pedregal', 'Any Jackeline Nuñez Callejas', 5, 98, 'Q1_2019', 250, 'Salud Pública', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821143', 'ARNOLDO LOPEZ', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS Ramón Villeda Morales', 'Wendy Ramos', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821141', 'VIVIAN BONILLA', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS Ramón Villeda Morales', 'Wendy Ramos', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821125', 'CARLOS DE JESUS ESCOBAR', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS Ramón Villeda Morales', 'Wendy Ramos', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821123', 'ALISON PARADA', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS Ramón Villeda Morales', 'Wendy Ramos', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821127', 'GENESIS FLORES', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS Ramón Villeda Morales', 'Wendy Ramos', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821134', 'FRANCIS SAUCEDA', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS Ramón Villeda Morales', 'Wendy Ramos', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821132', 'VIRGINIA MARTINEZ', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS Ramón Villeda Morales', 'Wendy Ramos', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821130', 'GLENDA REYES', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS Ramón Villeda Morales', 'Wendy Ramos', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821126', 'ONDINA GIRON', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS Ramón Villeda Morales', 'Wendy Ramos', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821129', 'KEEYSI CALIX', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS Ramón Villeda Morales', 'Wendy Ramos', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821131', 'HEIDI AGUILERA', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS Ramón Villeda Morales', 'Wendy Ramos', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821138', 'GERZAN VASQUEZ', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS Ramón Villeda Morales', 'Wendy Ramos', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821172', 'KAREN CUELLO', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS Ramón Villeda Morales', 'Wendy Ramos', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821019', 'YEILY CANALES', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS Ramón Villeda Morales', 'Wendy Ramos', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821040', 'IRIS RAPALO', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS Ramón Villeda Morales', 'Wendy Ramos', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821076', 'VANESSA IZAGUIRRE', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS Ramón Villeda Morales', 'Wendy Ramos', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821074', 'ANA MEJIA GARCIA', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS Ramón Villeda Morales', 'Wendy Ramos', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821145', 'CINDY MORAZAN', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS Ramón Villeda Morales', 'Wendy Ramos', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821128', 'OLGA MENDEZ', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS Ramón Villeda Morales', 'Wendy Ramos', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821140', 'JUAN PORTILLO DOMINGUEZ', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS Ramón Villeda Morales', 'Wendy Ramos', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821124', 'JENNYFER ANDINO CRUZ', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS Ramón Villeda Morales', 'Wendy Ramos', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821144', 'JENNY LAINEZ', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS Ramón Villeda Morales', 'Wendy Ramos', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821135', 'KARLA MATUTE CONTRERAS', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS Ramón Villeda Morales', 'Wendy Ramos', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821079', 'HUMBERTO ENRRIQUE RUIZ', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS Ramón Villeda Morales', 'Wendy Ramos', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821146', 'GILLIAN FLORES', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS Ramón Villeda Morales', 'Wendy Ramos', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821142', 'LEIVY SABILLON PAZ', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS Ramón Villeda Morales', 'Wendy Ramos', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821139', 'YERIS MONTES MURILLO', 'Encuesta de Satisfacción de Servicios Ambulatorios', 'CIS Ramón Villeda Morales', 'Wendy Ramos', 5, 95, 'Q1_2019', 250, 'Estrategias Educativas Calidad', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841091', 'PAHOLA SALGADO', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31861017', 'SHARON ALCERRO', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841152', 'SAIDI LOPEZ', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841137', 'DANELY ORDOÑEZ', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841082', 'LEYLA CERRATO', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821049', 'BELKI LAGOS', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821021', 'ALEJANDRA RODRIGUEZ', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821048', 'NEYVIS ACOSTA', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841149', 'ASTRID PADILLA', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841092', 'ELVIA VARELA', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841067', 'FABIOLA ZUNIGA', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841160', 'ANGELA OSORTO', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841157', 'FATIMA BONILLA', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841159', 'DANITZA ESPINOZA', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841129', 'LISBETH ZELAYA', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841031', 'GENESIS SIERRA', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841102', 'GENESIS MARTINEZ', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841014', 'CINTHIA PINEDA', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841131', 'ALEXANDRA RIVERA', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841126', 'SUYAPA MAIRENA', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841125', 'LEDA RODRIGUEZ', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841009', 'KEILY FUNEZ', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841155', 'KEIVI ARIEL', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841035', 'FLERIDA ESPINAL', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841039', 'OTILIA TREJO', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841011', 'JENNIFER MEJIA', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841158', 'ANDREA TORRES', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841021', 'PAOLA LANZA', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841013', 'KATHERIN FLORES', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841064', 'ROSYN ALVARADO', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841127', 'KENIA LOPEZ', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841128', 'ELENA ANTUNEZ', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841145', 'JENNIFER SANCHEZ', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841071', 'KARINA BARAHONA', 'Cuidar Tu Estilo es Cuidar Tu Vida', 'CIS Dr. Ramon Villeda Morales', 'Jenny Raquel Hernandez Cruz', 5, 98, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841023', 'ERICK ENAMORADO', 'Familia Saludable ', 'CIS Providencia la Joya', 'Jenny Raquel Hernández Cruz', 5, 95, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841027', 'ANA AVELAR', 'Familia Saludable ', 'CIS Providencia la Joya', 'Jenny Raquel Hernández Cruz', 5, 95, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841192', 'SAMIR MEJIA', 'Familia Saludable ', 'CIS Providencia la Joya', 'Jenny Raquel Hernández Cruz', 5, 95, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841134', 'DANIELA CRUZ', 'Familia Saludable ', 'CIS Providencia la Joya', 'Jenny Raquel Hernández Cruz', 5, 95, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841060', 'GENESIS RAMOS', 'Familia Saludable ', 'CIS Providencia la Joya', 'Jenny Raquel Hernández Cruz', 5, 95, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841065', 'ANDREA AMADOR', 'Familia Saludable ', 'CIS Providencia la Joya', 'Jenny Raquel Hernández Cruz', 5, 95, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841055', 'MARTHA DE JESUS PONCE', 'Familia Saludable ', 'CIS Providencia la Joya', 'Jenny Raquel Hernández Cruz', 5, 95, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841010', 'FABIOLA ZUNIGA', 'Familia Saludable ', 'CIS Providencia la Joya', 'Jenny Raquel Hernández Cruz', 5, 95, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841042', 'CINDY OYUELA', 'Familia Saludable ', 'CIS Providencia la Joya', 'Jenny Raquel Hernández Cruz', 5, 95, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841028', 'KARINA SIERRA', 'Familia Saludable ', 'CIS Providencia la Joya', 'Jenny Raquel Hernández Cruz', 5, 95, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841044', 'SANDY IZAGUIRRE', 'Familia Saludable ', 'CIS Providencia la Joya', 'Jenny Raquel Hernández Cruz', 5, 95, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841053', 'LINDA FLORES ', 'Familia Saludable ', 'CIS Providencia la Joya', 'Jenny Raquel Hernández Cruz', 5, 95, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31841029', 'DANIELA CRUZ', 'Familia Saludable ', 'CIS Providencia la Joya', 'Jenny Raquel Hernández Cruz', 5, 95, 'Q1_2019', 250, 'Atención Primaria y Salud Familiar', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741040', 'KEVIN SIERRA ', 'Optimización de la Red LAN', 'Escuela Club de Leones N°1', 'Roger Argueta ', 5, 100, 'Q4_2018', 250, 'Taller de Redes ', 'TUIR', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741058', 'ARIEL ENRIQUE SANCHEZ BARRERA', 'Donación de vestimanta para adultos y niños, refrigerio, realización de dinámicas. ', 'Albergue del Hospital San Felipe ', 'Vida Estudiantil ', 10, 100, 'Q4_2018', 100, 'Vida Estudiantil', 'TUBCC', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741143', 'MIRNA ISABEL KEEHAM GÓMEZ', 'Donación de vestimanta para adultos y niños, refrigerio, realización de dinámicas. ', 'Albergue del Hospital San Felipe ', 'Vida Estudiantil ', 10, 100, 'Q4_2018', 100, 'Vida Estudiantil', 'TUBCC', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31751091', 'DAVID ALEJANDRO VALLADARES DURÓN', 'Donación de material escolar, charlas y actividades recreativas.', 'Esc. José Cecilio del Valle', 'Vida Estudiantil', 10, 100, 'Q1_2019', 200, 'Voluntariado', 'TUBCC', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741032', 'YARELI PAMELA SALGADO REYES', 'Donación de material escolar, charlas y actividades recreativas.', 'Esc. José Cecilio del Valle', 'Vida Estudiantil', 10, 100, 'Q1_2019', 200, 'Voluntariado', 'TUBCC', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741074', 'CARMEN OYUELA', 'Donación de material escolar, charlas y actividades recreativas.', 'Esc. José Cecilio del Valle', 'Vida Estudiantil', 10, 100, 'Q1_2019', 200, 'Voluntariado', 'TUBCC', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741099', 'ALEXANDRA MARTÍNEZ', 'Donación de material escolar, charlas y actividades recreativas.', 'Esc. José Cecilio del Valle', 'Vida Estudiantil', 10, 100, 'Q1_2019', 200, 'Voluntariado', 'TUBCC', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741039', 'CARLOS FRANCISCO PADILLA DÍAZ', 'Donación de material escolar, charlas y actividades recreativas.', 'Esc. José Cecilio del Valle', 'Vida Estudiantil', 10, 100, 'Q1_2019', 200, 'Voluntariado', 'TUBCC', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741130', 'LUZ PEREIRA', 'Donación de material escolar, charlas y actividades recreativas.', 'Esc. José Cecilio del Valle', 'Vida Estudiantil', 10, 100, 'Q1_2019', 200, 'Voluntariado', 'TUBCC', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741048', 'STHEPHANY NICOL PÉREZ RODRÍGUEZ', 'Donación de material escolar, charlas y actividades recreativas.', 'Esc. José Cecilio del Valle', 'Vida Estudiantil', 10, 100, 'Q1_2019', 200, 'Voluntariado', 'TUBCC', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31911188', 'MARÍA ELVIR', 'Donación de material escolar, charlas y actividades recreativas.', 'Esc. José Cecilio del Valle', 'Vida Estudiantil', 10, 100, 'Q1_2019', 200, 'Voluntariado', 'TUBCC', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741075', 'JETZY OYUELA', 'Donación de material escolar, charlas y actividades recreativas.', 'Esc. José Cecilio del Valle', 'Vida Estudiantil', 10, 100, 'Q1_2019', 200, 'Voluntariado', 'TUBCC', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741080', 'LIZZY MARÍA VELÁSQUEZ MALDONADO', 'Donación de material escolar, charlas y actividades recreativas.', 'Esc. José Cecilio del Valle', 'Vida Estudiantil', 10, 100, 'Q1_2019', 200, 'Voluntariado', 'TUBCC', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741065', 'RONALD ENRIQUE VARELA RAMOS', 'Donación de material escolar, charlas y actividades recreativas.', 'Esc. José Cecilio del Valle', 'Vida Estudiantil', 10, 100, 'Q1_2019', 200, 'Voluntariado', 'TUBCC', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741058', 'ARIEL ENRIQUE SÁNCHEZ BARRERA', 'Donación de material escolar, charlas y actividades recreativas.', 'Esc. José Cecilio del Valle', 'Vida Estudiantil', 10, 100, 'Q1_2019', 200, 'Voluntariado', 'TUBCC', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741060', 'KEVIN ALEXIS NIETO FLORES', 'Donación de material escolar, charlas y actividades recreativas.', 'Esc. José Cecilio del Valle', 'Vida Estudiantil', 6, 100, 'Q1_2019', 200, 'Voluntariado', 'TUBCC', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741005', 'SAUDY ORDOÑEZ', 'Donación de material escolar, charlas y actividades recreativas.', 'Esc. José Cecilio del Valle', 'Vida Estudiantil', 10, 100, 'Q1_2019', 200, 'Voluntariado', 'TUBCC', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741054', 'PEDRO ANTONIO SÁNCHEZ BORJAS', 'Donación de material escolar, charlas y actividades recreativas.', 'Esc. José Cecilio del Valle', 'Vida Estudiantil', 10, 100, 'Q1_2019', 200, 'Voluntariado', 'TUBCC', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31721088', 'NOELIA AMADOR', 'Donación de material escolar, charlas y actividades recreativas.', 'Esc. José Cecilio del Valle', 'Vida Estudiantil', 10, 100, 'Q1_2019', 200, 'Voluntariado', 'TUBCC', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741059', 'LUISENRIQUE BORJAS SÁNCHEZ', 'Donación de material escolar, charlas y actividades recreativas.', 'Esc. José Cecilio del Valle', 'Vida Estudiantil', 10, 100, 'Q1_2019', 200, 'Voluntariado', 'TUBCC', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741049', 'LEDIS ONDINA MARTÍNEZ GARCÍA', 'Donación de material escolar, charlas y actividades recreativas.', 'Esc. José Cecilio del Valle', 'Vida Estudiantil', 10, 100, 'Q1_2019', 200, 'Voluntariado', 'TUBCC', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741100', 'KEIDY RAUDALES', 'Donación de material escolar, charlas y actividades recreativas.', 'Esc. José Cecilio del Valle', 'Vida Estudiantil', 10, 100, 'Q1_2019', 200, 'Voluntariado', 'TUBCC', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741009', 'GÉNESIS COELLO', 'Donación de material escolar, charlas y actividades recreativas.', 'Esc. José Cecilio del Valle', 'Vida Estudiantil', 10, 100, 'Q1_2019', 200, 'Voluntariado', 'TUBCC', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741027', 'DONG HO SAGASTUME NECOCHEA', 'Donación de material escolar, charlas y actividades recreativas.', 'Esc. José Cecilio del Valle', 'Vida Estudiantil', 6, 100, 'Q1_2019', 200, 'Voluntariado', 'TUBCC', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741119', 'NADIA VELÁSQUEZ', 'Donación de material escolar, charlas y actividades recreativas.', 'Esc. José Cecilio del Valle', 'Vida Estudiantil', 10, 100, 'Q1_2019', 200, 'Voluntariado', 'TUBCC', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741002', 'AMAIRANI MARIBEL RODAS SORIANO', 'Donación de material escolar, charlas y actividades recreativas.', 'Esc. José Cecilio del Valle', 'Vida Estudiantil', 10, 100, 'Q1_2019', 200, 'Voluntariado', 'TUBCC', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741143', 'MIRNA ISABEL KEEHAM GÓMEZ', 'Donación de material escolar, charlas y actividades recreativas.', 'Esc. José Cecilio del Valle', 'Vida Estudiantil', 10, 100, 'Q1_2019', 200, 'Voluntariado', 'TUBCC', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811191', 'EDITH TATIANA GIRÓN ROSALES', 'Charla sobre salud preventiva, cuidados alimenticios.', 'FUNADEH', 'Vida Estudiantil', 4, 100, 'Q1_2019', 200, 'Voluntariado', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811244', 'GUISSEELL ARACELY MONTOYA SALGADO', 'Charla sobre salud preventiva, cuidados alimenticios.', 'FUNADEH', 'Vida Estudiantil', 4, 100, 'Q1_2019', 200, 'Voluntariado', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811226', 'JORGE DAVID GARCÍA ALVARADO', 'Charla sobre salud preventiva, cuidados alimenticios.', 'FUNADEH', 'Vida Estudiantil', 4, 100, 'Q1_2019', 200, 'Voluntariado', 'TUEA', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811166', 'BRITNY MICHELLE AMAYA HERNÁNDEZ', 'Charla sobre salud preventiva, cuidados alimenticios.', 'FUNADEH', 'Vida Estudiantil', 4, 100, 'Q1_2019', 200, 'Voluntariado', 'TUEA', '', 1);
+INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811128', 'LIZZI ESTHER SANTOS PÉREZ', 'Plan de Negocios', 'Haykeys Nails', 'Claudio Manuel Morazán', 10, 85, 'Q1_2019', 200, 'Gestión y Emprendimiento de Carrera', 'TUDDW', '', 1);
 
-INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811128', 'LIZZI ESTHER SANTOS PÉREZ', 'Plan de Negocios', 'Haykey's Nails', 'Claudio Manuel Morazán', 10, 85, 'Q1_2019', 200, 'Gestión y Emprendimiento de Carrera', 'TUDDW', '', 1);
+INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811147', 'JORDAN EDGARDO BARRIENTOS', 'Plan de Negocios', 'Haykeys Nails', 'Claudio Manuel Morazán', 10, 85, 'Q1_2019', 200, 'Gestión y Emprendimiento de Carrera', 'TUDDW', '', 1);
+INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31911236', 'JOEL ISAÍ REYES MARTÍNEZ', 'Plan de Negocios', 'Haykeys Nails', 'Claudio Manuel Morazán', 10, 85, 'Q1_2019', 200, 'Gestión y Emprendimiento de Carrera', 'TUDDW', '', 1);
 
-INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811147', 'JORDAN EDGARDO BARRIENTOS', 'Plan de Negocios', 'Haykey's Nails', 'Claudio Manuel Morazán', 10, 85, 'Q1_2019', 200, 'Gestión y Emprendimiento de Carrera', 'TUDDW', '', 1);
+INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811075', 'CARLOS FERNANDO MONCADA NAVARRO', 'Plan de Negocios', 'Haykeys Nails', 'Claudio Manuel Morazán', 10, 85, 'Q1_2019', 200, 'Gestión y Emprendimiento de Carrera', 'TUDDW', '', 1);
+INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821055', 'AYLIN LARISSA ARDÓN CASCO', 'Plan de Negocios', 'Beyas Bakery', 'Claudio Manuel Morazán Coello', 10, 90, 'Q1_2019', 200, 'Gestión y Emprendimiento de Carrera', 'TUBCC', '', 1);
 
-INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31911236', 'JOEL ISAÍ REYES MARTÍNEZ', 'Plan de Negocios', 'Haykey's Nails', 'Claudio Manuel Morazán', 10, 85, 'Q1_2019', 200, 'Gestión y Emprendimiento de Carrera', 'TUDDW', '', 1);
+INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31911002', 'ENZARY ARACELY GUTIERREZ GONZALES', 'Plan de Negocios', 'Beyas Bakery', 'Claudio Manuel Morazán Coello', 10, 90, 'Q1_2019', 200, 'Gestión y Emprendimiento de Carrera', 'TUBCC', '', 1);
+INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31911225', 'HANNY LIZETH HERNÁNDEZ MENDOZA', 'Plan de Negocios', 'Beyas Bakery', 'Claudio Manuel Morazán Coello', 10, 90, 'Q1_2019', 200, 'Gestión y Emprendimiento de Carrera', 'TUDDW', '', 1);
 
-INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811075', 'CARLOS FERNANDO MONCADA NAVARRO', 'Plan de Negocios', 'Haykey's Nails', 'Claudio Manuel Morazán', 10, 85, 'Q1_2019', 200, 'Gestión y Emprendimiento de Carrera', 'TUDDW', '', 1);
-
-INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31821055', 'AYLIN LARISSA ARDÓN CASCO', 'Plan de Negocios', 'Beya's Bakery', 'Claudio Manuel Morazán Coello', 10, 90, 'Q1_2019', 200, 'Gestión y Emprendimiento de Carrera', 'TUBCC', '', 1);
-
-INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31911002', 'ENZARY ARACELY GUTIERREZ GONZALES', 'Plan de Negocios', 'Beya's Bakery', 'Claudio Manuel Morazán Coello', 10, 90, 'Q1_2019', 200, 'Gestión y Emprendimiento de Carrera', 'TUBCC', '', 1);
-
-INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31911225', 'HANNY LIZETH HERNÁNDEZ MENDOZA', 'Plan de Negocios', 'Beya's Bakery', 'Claudio Manuel Morazán Coello', 10, 90, 'Q1_2019', 200, 'Gestión y Emprendimiento de Carrera', 'TUDDW', '', 1);
-
-INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31911217', 'DULCE MARÍA HERNÁNDEZ MORALES', 'Plan de Negocios', 'Beya's Bakery', 'Claudio Manuel Morazán Coello', 10, 90, 'Q1_2019', 200, 'Gestión y Emprendimiento de Carrera', 'TUDDW', '', 1);
-
+INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31911217', 'DULCE MARÍA HERNÁNDEZ MORALES', 'Plan de Negocios', 'Beyas Bakery', 'Claudio Manuel Morazán Coello', 10, 90, 'Q1_2019', 200, 'Gestión y Emprendimiento de Carrera', 'TUDDW', '', 1);
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31721150', 'CRISTIAN FERNANDO GUILLEN ORTIZ', 'Plan de Negocios', 'Restaurante Donde Pin', 'Claudio Manuel Morazán Coello', 10, 90, 'Q1_2019', 200, 'Gestión y Emprendimiento de Carrera', 'TUBCC', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741054', 'PEDRO ANTONIO SÁNCHEZ BORJAS', 'Plan de Negocios', 'Restaurante Donde Pin', 'Claudio Manuel Morazán Coello', 10, 90, 'Q1_2019', 200, 'Gestión y Emprendimiento de Carrera', 'TUBCC', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741028', 'XOTCHIL ALEJANDRA LANZA RAMOS', 'Plan de Negocios', 'Restaurante Donde Pin', 'Claudio Manuel Morazán Coello', 10, 90, 'Q1_2019', 200, 'Gestión y Emprendimiento de Carrera', 'TUBCC', '', 1);
-
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741060', 'KEVIN ALEXIS NIETO FLORES', 'Plan de Negocios', 'Restaurante Donde Pin', 'Claudio Manuel Morazán Coello', 10, 90, 'Q1_2019', 200, 'Gestión y Emprendimiento de Carrera', 'TUBCC', '', 1);
+INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811069', 'RAQUEL MADAI MURILLO ROMERO', 'Plan de Negocios', 'Hayleys Nails', 'Claudio Manuel Morazán Coello', 10, 100, 'Q1_2019', 200, 'Gestión y Emprendimiento de Carrera', 'TUBCC', '', 1);
 
-INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811069', 'RAQUEL MADAI MURILLO ROMERO', 'Plan de Negocios', 'Hayley's Nails', 'Claudio Manuel Morazán Coello', 10, 100, 'Q1_2019', 200, 'Gestión y Emprendimiento de Carrera', 'TUBCC', '', 1);
+INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811037', 'LAURY SKARLETH FERNÁNDEZ PAZ', 'Plan de Negocios', 'Hayleys Nails', 'Claudio Manuel Morazán Coello', 10, 100, 'Q1_2019', 200, 'Gestión y Emprendimiento de Carrera', 'TUBCC', '', 1);
+INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31751072', 'HAYLEY SÁNCHEZ MARTÍNEZ', 'Plan de Negocios', 'Hayleys Nails', 'Claudio Manuel Morazán Coello', 10, 100, 'Q1_2019', 200, 'Gestión y Emprendimiento de Carrera', 'TUBCC', '', 1);
 
-INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811037', 'LAURY SKARLETH FERNÁNDEZ PAZ', 'Plan de Negocios', 'Hayley's Nails', 'Claudio Manuel Morazán Coello', 10, 100, 'Q1_2019', 200, 'Gestión y Emprendimiento de Carrera', 'TUBCC', '', 1);
+INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811056', 'GABRIELA MARÍA VALLE LOVO', 'Plan de Negocios', 'Hayleys Nails', 'Claudio Manuel Morazán Coello', 10, 100, 'Q1_2019', 200, 'Gestión y Emprendimiento de Carrera', 'TUBCC', '', 1);
 
-INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31751072', 'HAYLEY SÁNCHEZ MARTÍNEZ', 'Plan de Negocios', 'Hayley's Nails', 'Claudio Manuel Morazán Coello', 10, 100, 'Q1_2019', 200, 'Gestión y Emprendimiento de Carrera', 'TUBCC', '', 1);
-
-INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811056', 'GABRIELA MARÍA VALLE LOVO', 'Plan de Negocios', 'Hayley's Nails', 'Claudio Manuel Morazán Coello', 10, 100, 'Q1_2019', 200, 'Gestión y Emprendimiento de Carrera', 'TUBCC', '', 1);
-
-INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811060', 'ANDREA ALEJANDRA RIVERA COELLO', 'Plan de Negocios', 'Hayley's Nails', 'Claudio Manuel Morazán Coello', 10, 100, 'Q1_2019', 200, 'Gestión y Emprendimiento de Carrera', 'TUBCC', '', 1);
+INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811060', 'ANDREA ALEJANDRA RIVERA COELLO', 'Plan de Negocios', 'Hayleys Nails', 'Claudio Manuel Morazán Coello', 10, 100, 'Q1_2019', 200, 'Gestión y Emprendimiento de Carrera', 'TUBCC', '', 1);
 
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811227', 'BEYSI MARTÍNEZ', 'Limpieza de areas verdes, siembra de plantas decorativas y realización de mural', 'Hospital San Felipe', 'Vida Estudiantil ', 5, 100, 'Q1_2019', 100, 'Vida Estudiantil ', 'TUEA', '', 1);
 
@@ -1172,7 +977,7 @@ INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas
 
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31811001', 'FAVIAN DASSAEHT PERALTA RUIZ', 'Plan Estratégico de Servicio al Cliente', 'Donde "Pin"', 'Zenia Martínez Pineda', 5, 100, 'Q4_2018', 250, 'Taller de Atención al Cliente', 'TUBCC', '', 1);
 
-INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31751104', 'EBERH RENÉ LÓPEZ MAIRENA', 'Aplicación metodología japonesa denomida "Las 5 s"', 'Metal Gym Honduras', 'Belinda Canales', 10, 95, 'Q2-2018', 200, 'Emprendimiento y Gestión de Carreras', 'TUIR_x000D_ TUIR_x000D_ TUIR', '', 1);
+INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31751104', 'EBERH RENÉ LÓPEZ MAIRENA', 'Aplicación metodología japonesa denomida "Las 5 s"', 'Metal Gym Honduras', 'Belinda Canales', 10, 95, 'Q2-2018', 200, 'Emprendimiento y Gestión de Carreras', 'TUIR', '', 1);
 
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31751104', 'EBERH RENE LOPEZ', 'Optimización de la red LAN', 'Escuela de Varones José Trinidad Cabañas', 'Roger Alexis Argueta Gómez', 5, 100, '4_2018', 250, 'Taller de Redes', 'TUIR', '', 1);
 
@@ -1212,23 +1017,23 @@ INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas
 
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31751045', 'FERNANDO ANTONIO TORRES', 'Optimización de la red LAN', 'Instituto Nacional para la Atención a Menores Infractores "Renaciendo"', 'Roger Alexis Argueta Gómez', 5, 100, '4_2018', 250, 'Taller de Redes', 'TUIR', '', 1);
 
-INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31751045', 'FERNANDO ANTONIO TORRES BERNHARD', 'Mejoras a la red Inalámbrica del CEPB "Ana Joselina Fortín"_x000D_ ejoras a la red inalámbrica del CEPB "Ana Joselina Fortín"', 'CEPB "Ana Joselina Fortín"', 'Romell Duval Vargas Laitano', 5, 100, '4_2018', 250, 'Redes Inalámbricas', 'TUIR', '', 1);
+INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31751045', 'FERNANDO ANTONIO TORRES BERNHARD', 'Mejoras a la red Inalámbrica del CEPB "Ana Joselina Fortín"', 'CEPB "Ana Joselina Fortín"', 'Romell Duval Vargas Laitano', 5, 100, '4_2018', 250, 'Redes Inalámbricas', 'TUIR', '', 1);
 
-INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31751041', 'FABIOLA LAGOS', 'Donación de vestimenta para adultos y niños, refrihgerio, realización de dinámicasDonación de vestimenta para adultos y niños, refrihgerio, realización de dinámicas', 'Albergue del Hospital San Felipe', 'Área de Vida Estudiantil', 10, 100, 'Q4_2018', 100, 'Voluntariado', 'TUBCC', '', 1);
+INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31751041', 'FABIOLA LAGOS', 'Donación de vestimenta para adultos y niños, refrigerio, realización de dinámicas.', 'Albergue del Hospital San Felipe', 'Área de Vida Estudiantil', 10, 100, 'Q4_2018', 100, 'Voluntariado', 'TUBCC', '', 1);
 
-INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31751041', 'SEIDY FAVIOLA LAGOS GALEAS', 'Plan de negocios', 'Mister´s Barber Shop', 'Claudio Manuel Morazán', 10, 100, 'Q4_2018', 250, 'Emprendimiento y Gestión de Carrera', 'undefined', '', 1);
+INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31751041', 'SEIDY FAVIOLA LAGOS GALEAS', 'Plan de negocios', 'Misters Barber Shop', 'Claudio Manuel Morazán', 10, 100, 'Q4_2018', 250, 'Emprendimiento y Gestión de Carrera', 'undefined', '', 1);
 
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31751039', 'KEVIN MAURICIO NIETO HERNÁNDEZ', 'Aplicación metodología japonesa denomida "Las 5 s"', 'Metal Gym Honduras', 'Belinda Canales', 10, 95, 'Q2-2018', 200, 'Emprendimiento y Gestión de Carreras', 'TUIR', '', 1);
 
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31751034', 'VICTOR OTHONIEL DEL CID LAZO', 'Plan Estratégico de Servicio al Cliente', 'ESCUELA REPÚBLICA DE HONDURAS', 'Belinda Canales', 10, 95, 'Q2-018', 200, 'Emprendimiento y Gestión de Carreras', 'TUIR', '', 1);
 
-INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31751027', 'LAURA ALICIA PORTILLO', 'Donación de vestimenta para adultos y niños, refrihgerio, realización de dinámicasDonación de vestimenta para adultos y niños, refrihgerio, realización de dinámicas', 'Albergue del Hospital San Felipe', 'Área de Vida Estudiantil', 10, 100, 'Q4_2018', 100, 'Voluntariado', 'TUBCC', '', 1);
+INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31751027', 'LAURA ALICIA PORTILLO', 'Donación de vestimenta para adultos y niños, refrihgerio, realización de dinámicas.', 'Albergue del Hospital San Felipe', 'Área de Vida Estudiantil', 10, 100, 'Q4_2018', 100, 'Voluntariado', 'TUBCC', '', 1);
 
-INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31751027', 'LAURA ALICIA PORTILLO MELENDEZ', 'Plan de negocios', 'Mister´s Barber Shop', 'Claudio Manuel Morazán', 10, 100, 'Q4_2018', 250, 'Emprendimiento y Gestión de Carrera', 'undefined', '', 1);
+INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31751027', 'LAURA ALICIA PORTILLO MELENDEZ', 'Plan de negocios', 'Misters Barber Shop', 'Claudio Manuel Morazán', 10, 100, 'Q4_2018', 250, 'Emprendimiento y Gestión de Carrera', 'undefined', '', 1);
 
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31751021', 'MARIO BERTRAND ALVAREZ', 'Plan Estratégico de Servicio al Cliente', 'Variedades "Leanny"', 'Zenia Martínez Pineda', 5, 100, 'Q4_2018', 250, 'Taller de Atención al Cliente', 'TUBCC', '', 1);
 
-INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31751021', 'MARIO BERTRAND ALVARES', 'Plan de negocios', 'Mister´s Barber Shop', 'Claudio Manuel Morazán', 10, 100, 'Q4_2018', 250, 'Emprendimiento y Gestión de Carrera', 'undefined', '', 1);
+INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31751021', 'MARIO BERTRAND ALVARES', 'Plan de negocios', 'Misters Barber Shop', 'Claudio Manuel Morazán', 10, 100, 'Q4_2018', 250, 'Emprendimiento y Gestión de Carrera', 'undefined', '', 1);
 
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31751005', 'HECTOR JOSUE GONZALES', 'Plan de negocios', 'Floristería Pétalos Dorados', 'Claudio Manuel Morazán', 10, 95, 'Q4_2018', 250, 'Emprendimiento y Gestión de Carrera', 'undefined', '', 1);
 
@@ -1302,7 +1107,7 @@ INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas
 
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741063', 'YESLIN YADCSA TEJEDA MARTÍNEZ', 'Plan Estratégico de Servicio al Cliente', 'Donde "Pin"', 'Zenia Martínez Pineda', 5, 100, 'Q4_2018', 250, 'Taller de Atención al Cliente', 'TUBCC', '', 1);
 
-INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741059', 'LUIS ENRIQUE BORJAS SÁNCHEZ', 'Donación de vestimenta para adultos y niños, refrihgerio, realización de dinámicasDonación de vestimenta para adultos y niños, refrihgerio, realización de dinámicas', 'Albergue del Hospital San Felipe', 'Área de Vida Estudiantil', 10, 100, 'Q4_2018', 100, 'Voluntariado', 'TUBCC', '', 1);
+INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741059', 'LUIS ENRIQUE BORJAS SÁNCHEZ', 'Donación de vestimenta para adultos y niños, refrihgerio, realización de dinámicas', 'Albergue del Hospital San Felipe', 'Área de Vida Estudiantil', 10, 100, 'Q4_2018', 100, 'Voluntariado', 'TUBCC', '', 1);
 
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741055', 'MAHOLY MÉNDEZ', 'Donación de vestimenta para adultos y niños, refrihgerio, realización de dinámicas', 'Albergue del Hospital San Felipe', 'Área de Vida Estudiantil', 10, 100, 'Q4_2018', 100, 'Voluntariado', 'TUBCC', '', 1);
 
@@ -1314,9 +1119,9 @@ INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas
 
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741050', 'CARLOS ALBERTO RODRÍGUEZ PALACIOS', 'Aplicación metodología japonesa denomida "Las 5 s"', 'El Mundo del Reino Natural', 'Belinda Canales', 10, 95, 'Q2_2018', 200, 'Emprendimiento y Gestión de Carreras', 'TUIR', '', 1);
 
-INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741049', 'LEDIS ONDINA MARTÍNEZ GARCÍA', 'Donación de vestimenta para adultos y niños, refrihgerio, realización de dinámicasDonación de vestimenta para adultos y niños, refrihgerio, realización de dinámicas', 'Albergue del Hospital San Felipe', 'Área de Vida Estudiantil', 10, 100, 'Q4_2018', 100, 'Voluntariado', 'TUBCC', '', 1);
+INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741049', 'LEDIS ONDINA MARTÍNEZ GARCÍA', 'Donación de vestimenta para adultos y niños, refrihgerio, realización de dinámicas', 'Albergue del Hospital San Felipe', 'Área de Vida Estudiantil', 10, 100, 'Q4_2018', 100, 'Voluntariado', 'TUBCC', '', 1);
 
-INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741048', 'STEPHANY NICOL PÉREZ RODRÍGUEZ', 'Donación de vestimenta para adultos y niños, refrihgerio, realización de dinámicasDonación de vestimenta para adultos y niños, refrihgerio, realización de dinámicas', 'Albergue del Hospital San Felipe', 'Área de Vida Estudiantil', 10, 100, 'Q4_2018', 100, 'Voluntariado', 'TUBCC', '', 1);
+INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741048', 'STEPHANY NICOL PÉREZ RODRÍGUEZ', 'Donación de vestimenta para adultos y niños, refrihgerio, realización de dinámicas', 'Albergue del Hospital San Felipe', 'Área de Vida Estudiantil', 10, 100, 'Q4_2018', 100, 'Voluntariado', 'TUBCC', '', 1);
 
 INSERT INTO estudiantes(cuenta, nombre, proyecto, beneficiario, evaluador, horas, evaluacion, periodo, valor, asignatura, carrera, observaciones, user_id)VALUES('T31741040', 'KEVIN RENÉ SIERRA', 'Aplicación metodología japonesa denomida "Las 5 s"', 'El Mundo del Reino Natural', 'Belinda Canales', 10, 95, 'Q2_2018', 200, 'Emprendimiento y Gestión de Carreras', 'TUIR', '', 1);
 
